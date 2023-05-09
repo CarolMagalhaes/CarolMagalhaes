@@ -20,7 +20,6 @@ Adoro o mundo da tecnologia, atuar em projetos diferentes e conhecer novas tecno
 - Teste de unidade
 - Teste de integração
 - Testes de backEnd
-- Testes de Integração com ETL com Power BI
 
 ### Metodologias
 - Scrum
